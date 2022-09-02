@@ -1,1 +1,1 @@
-Prnt cur wrking dir in lng formt with usr nd grp IDs
+Script to print a dir my_first_directory
