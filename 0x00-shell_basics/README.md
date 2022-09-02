@@ -1,1 +1,1 @@
-dispplay current directory contents including,users and group IDs with hidden files numerically in long format
+Prnt cur wrking dir in lng formt with usr nd grp IDs
