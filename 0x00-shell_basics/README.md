@@ -1,1 +1,1 @@
-del dir my_first_directory in /tmp
+command that change cur dir to prev one
