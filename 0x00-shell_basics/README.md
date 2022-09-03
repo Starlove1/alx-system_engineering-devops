@@ -1,1 +1,1 @@
-cmmd to prnt all fls in lng frmt inc /boot
+Prnt file imafile in /tmp dir
