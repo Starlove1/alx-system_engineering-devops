@@ -1,1 +1,1 @@
-Script to list all files in cur dir and pwd in lng frmt
+list all files of cur dir nd pwd lng frmt
