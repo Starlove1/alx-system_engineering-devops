@@ -1,1 +1,1 @@
-Prnt file imafile in /tmp dir
+Symbolic lnk /bin/ls named _ls_
