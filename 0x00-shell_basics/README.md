@@ -1,1 +1,1 @@
-move file betty from /tmp/ to /tmp/my_first_directory
+del dir my_first_directory in /tmp
