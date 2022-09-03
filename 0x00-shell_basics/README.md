@@ -1,1 +1,1 @@
-Symbolic lnk /bin/ls named _ls_
+Copies all HTML fils from cwd to pwd
