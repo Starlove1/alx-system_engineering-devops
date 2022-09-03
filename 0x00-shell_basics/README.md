@@ -1,1 +1,1 @@
-list all files of cur dir nd pwd lng frmt inc boot
+cmmd to prnt all fls in lng frmt inc /boot
